@@ -1,0 +1,14 @@
+-
+  button_service1:
+    name: xpath
+    value: //li[@data-value="套餐一"]
+  sleep: 2
+  button_service2:
+    name: xpath
+    value: //li[@data-value="银色"]
+  button_service3:
+    name: xpath
+    value: //li[@data-value="128G"]
+  button_addto:
+    name: xpath
+    value: //button[text()="加入购物车"]

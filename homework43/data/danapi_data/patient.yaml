@@ -1,0 +1,4 @@
+-
+  path: /api/getbloodchecklist
+  data:
+    cardnum: 10987

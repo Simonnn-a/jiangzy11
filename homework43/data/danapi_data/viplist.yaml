@@ -1,0 +1,4 @@
+-
+  path: /api/user/viplist
+  headers:
+    token: cemaxueyuan

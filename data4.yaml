@@ -1,0 +1,12 @@
+-
+  assert_wai:
+    time_: 2
+    name: xpath
+    value: //*[@id="common-prompt"]
+  button_check_addto:
+    name: xpath
+    value: //span[text()="购物车"]
+  assert:
+    name: xpayh
+    value: //a[text()="苹果（Apple）iPhone 6 Plus (A1524)移动联通电信4G手机 金色 16G"]
+    expect: 苹果（Apple）iPhone 6 Plus (A1524)移动联通电信4G手机 金色 16G

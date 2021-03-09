@@ -1,0 +1,4 @@
+-
+  path: /api/getweather
+  data:
+    city: 1

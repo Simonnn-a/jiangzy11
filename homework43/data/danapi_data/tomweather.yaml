@@ -1,0 +1,4 @@
+-
+  path: /api/gettomorrow
+  data:
+    city: 1

@@ -1,0 +1,11 @@
+-
+  iph:
+    name: xpath
+    value: //input[@id="search-input"]
+    txt: iphone
+  button_sousuo:
+    name: xpath
+    value: //input[@id="ai-topsearch"]
+  button_picture:
+    name: xpath
+    value: //img[@src="http://39.98.138.157/shopxo/public/static/upload/images/goods/2019/01/14/1547451274847894.jpg"]

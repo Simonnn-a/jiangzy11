@@ -1,0 +1,4 @@
+-
+  path: /api/getproductinfo
+  data:
+    productid: 8888

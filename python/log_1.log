@@ -1,0 +1,12 @@
+2020-11-03 09:17:54,587 log_1.py INFO <module> infoģʽ
+2020-11-03 09:17:54,592 log_1.py WARNING <module> warningģʽ
+2020-11-03 09:17:54,592 log_1.py ERROR <module> errorģʽ
+2020-11-03 09:17:54,592 log_1.py CRITICAL <module> criticalģʽ
+2020-11-03 22:39:09,394 log_1.py INFO <module> info模式
+2020-11-03 22:39:09,394 log_1.py WARNING <module> warning模式
+2020-11-03 22:39:09,394 log_1.py ERROR <module> error模式
+2020-11-03 22:39:09,394 log_1.py CRITICAL <module> critical模式
+2020-11-03 22:40:09,608 log_1.py INFO <module> infoģʽ
+2020-11-03 22:40:09,611 log_1.py WARNING <module> warningģʽ
+2020-11-03 22:40:09,611 log_1.py ERROR <module> errorģʽ
+2020-11-03 22:40:09,611 log_1.py CRITICAL <module> criticalģʽ

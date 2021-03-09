@@ -1,0 +1,8 @@
+import hashlib
+# arg = '要加密的文本'
+# se = hashlib.md5(arg.encode('utf-8'))
+# print(se)#获取去变量的内存地址
+# print(se.hexdigest())#获取加密的值
+
+def hashmd5(arg):
+    return  hashlib.md5(str(arg).encode('utf-8')).hexdigest()

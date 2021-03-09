@@ -1,0 +1,60 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "用于描述测试需求的情况",
+    "children" : [ {
+      "name" : "用户访问首页情况下",
+      "children" : [ {
+        "name" : "测试01用例名称",
+        "uid" : "e0272f4f88a9d843",
+        "parentUid" : "27cf27e844f4794332dd350954f2ca16",
+        "status" : "failed",
+        "time" : {
+          "start" : 1611064674221,
+          "stop" : 1611064674222,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27cf27e844f4794332dd350954f2ca16"
+    }, {
+      "name" : "用户访问个人中心情况下",
+      "children" : [ {
+        "name" : "测试02用例名称",
+        "uid" : "222539036c17463c",
+        "parentUid" : "246bf29f8f09f8e7989f2f90d855ab86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1611064674268,
+          "stop" : 1611064674269,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "246bf29f8f09f8e7989f2f90d855ab86"
+    } ],
+    "uid" : "75274b17837ec3030d8afa62c4d37cc8"
+  }, {
+    "name" : "用户下单失败的情况",
+    "children" : [ {
+      "name" : "测试03用例名称",
+      "uid" : "d31abc87e6755943",
+      "parentUid" : "d62784833aebbd5fbc18f0dd2a9cdaf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611064674272,
+        "stop" : 1611064674272,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d62784833aebbd5fbc18f0dd2a9cdaf0"
+  } ]
+}

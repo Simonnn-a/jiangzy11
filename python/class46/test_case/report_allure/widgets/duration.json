@@ -1,0 +1,31 @@
+[ {
+  "uid" : "222539036c17463c",
+  "name" : "测试02用例名称",
+  "time" : {
+    "start" : 1611064674268,
+    "stop" : 1611064674269,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0272f4f88a9d843",
+  "name" : "测试01用例名称",
+  "time" : {
+    "start" : 1611064674221,
+    "stop" : 1611064674222,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "d31abc87e6755943",
+  "name" : "测试03用例名称",
+  "time" : {
+    "start" : 1611064674272,
+    "stop" : 1611064674272,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,8 @@
+-
+  path: /api/addcart
+  headers:
+    token: 23657DGYUSGD126731638712GE18271H
+  data:
+    userid: 17890
+    openid: UEHUXUXU78272SDSassDD
+    productid: 8888

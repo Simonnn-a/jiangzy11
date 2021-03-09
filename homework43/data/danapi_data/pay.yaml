@@ -1,0 +1,9 @@
+-
+  path: /api/createorder
+  headers:
+    token: 23657DGYUSGD126731638712GE18271H
+  data:
+    openid: UEHUXUXU78272SDSassDD
+    userid: 17890
+    cartid: 45233
+    productid: 8888

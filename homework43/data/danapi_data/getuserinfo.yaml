@@ -1,0 +1,4 @@
+-
+  path: /api/getuserinfo
+  headers:
+    token: 23657DGYUSGD126731638712GE18271H

@@ -1,0 +1,4 @@
+-
+  path: /api/user/list
+  headers:
+    token: cemaxueyuan
